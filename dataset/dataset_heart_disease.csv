@@ -1,0 +1,101 @@
+Object,Age,RestingBP,Cholesterol,MaxHR,Oldpeak,HeartDisease
+1,40,140,289,172,0,Tidak Berpotensi
+2,49,160,180,156,1,Berpotensi
+3,37,130,283,98,0,Tidak Berpotensi
+4,48,138,214,108,1.5,Berpotensi
+5,54,150,195,122,0,Tidak Berpotensi
+6,39,120,339,170,0,Tidak Berpotensi
+7,45,130,237,170,0,Tidak Berpotensi
+8,54,110,208,142,0,Tidak Berpotensi
+9,37,140,207,130,1.5,Berpotensi
+10,48,120,284,120,0,Tidak Berpotensi
+11,37,130,211,142,0,Tidak Berpotensi
+12,58,136,164,99,2,Berpotensi
+13,39,120,204,145,0,Tidak Berpotensi
+14,49,140,234,140,1,Berpotensi
+15,42,115,211,137,0,Tidak Berpotensi
+16,54,120,273,150,1.5,Tidak Berpotensi
+17,38,110,196,166,0,Berpotensi
+18,43,120,201,165,0,Tidak Berpotensi
+19,60,100,248,125,1,Berpotensi
+20,36,120,267,160,3,Berpotensi
+21,43,100,223,142,0,Tidak Berpotensi
+22,44,120,184,142,1,Tidak Berpotensi
+23,49,124,201,164,0,Tidak Berpotensi
+24,44,150,288,150,3,Berpotensi
+25,40,130,215,138,0,Tidak Berpotensi
+26,36,130,209,178,0,Tidak Berpotensi
+27,53,124,260,112,3,Tidak Berpotensi
+28,52,120,284,118,0,Tidak Berpotensi
+29,53,113,468,127,0,Tidak Berpotensi
+30,51,125,188,145,0,Tidak Berpotensi
+31,53,145,518,130,0,Berpotensi
+32,56,130,167,114,0,Tidak Berpotensi
+33,54,125,224,122,2,Berpotensi
+34,41,130,172,130,2,Berpotensi
+35,43,150,186,154,0,Tidak Berpotensi
+36,32,125,254,155,0,Tidak Berpotensi
+37,65,140,306,87,1.5,Berpotensi
+38,41,110,250,142,0,Tidak Berpotensi
+39,48,120,177,148,0,Tidak Berpotensi
+40,48,150,227,130,1,Tidak Berpotensi
+41,54,150,230,130,0,Tidak Berpotensi
+42,54,130,294,100,0,Berpotensi
+43,35,150,264,168,0,Tidak Berpotensi
+44,52,140,259,170,0,Tidak Berpotensi
+45,43,120,175,120,1,Berpotensi
+46,59,130,318,120,1,Tidak Berpotensi
+47,37,120,223,168,0,Tidak Berpotensi
+48,50,140,216,170,0,Tidak Berpotensi
+49,36,112,340,184,1,Tidak Berpotensi
+50,41,110,289,170,0,Berpotensi
+51,50,130,233,121,2,Berpotensi
+52,47,120,205,98,2,Berpotensi
+53,45,140,224,122,0,Tidak Berpotensi
+54,41,130,245,150,0,Tidak Berpotensi
+55,52,130,180,140,1.5,Tidak Berpotensi
+56,51,160,194,170,0,Tidak Berpotensi
+57,31,120,270,153,1.5,Berpotensi
+58,58,130,213,140,0,Berpotensi
+59,54,150,365,134,1,Tidak Berpotensi
+60,52,112,342,96,1,Berpotensi
+61,49,100,253,174,0,Tidak Berpotensi
+62,43,150,254,175,0,Tidak Berpotensi
+63,45,140,224,144,0,Tidak Berpotensi
+64,46,120,277,125,1,Berpotensi
+65,50,110,202,145,0,Tidak Berpotensi
+66,37,120,260,130,0,Tidak Berpotensi
+67,45,132,297,144,0,Tidak Berpotensi
+68,32,110,225,184,0,Tidak Berpotensi
+69,52,160,246,82,4,Berpotensi
+70,44,150,412,170,0,Tidak Berpotensi
+71,57,140,265,145,1,Berpotensi
+72,44,130,215,135,0,Tidak Berpotensi
+73,52,120,182,150,0,Berpotensi
+74,44,120,218,115,0,Tidak Berpotensi
+75,55,140,268,128,1.5,Berpotensi
+76,46,150,163,116,0,Tidak Berpotensi
+77,32,118,529,130,0,Berpotensi
+78,35,140,167,150,0,Tidak Berpotensi
+79,52,140,100,138,0,Tidak Berpotensi
+80,49,130,206,170,0,Berpotensi
+81,55,110,277,160,0,Tidak Berpotensi
+82,54,120,238,154,0,Tidak Berpotensi
+83,63,150,223,115,0,Berpotensi
+84,52,160,196,165,0,Tidak Berpotensi
+85,56,150,213,125,1,Berpotensi
+86,66,140,139,94,1,Berpotensi
+87,65,170,263,112,2,Berpotensi
+88,53,140,216,142,2,Tidak Berpotensi
+89,43,120,291,155,0,Berpotensi
+90,55,140,229,110,0.5,Tidak Berpotensi
+91,49,110,208,160,0,Tidak Berpotensi
+92,39,130,307,140,0,Tidak Berpotensi
+93,52,120,210,148,0,Tidak Berpotensi
+94,48,160,329,92,1.5,Berpotensi
+95,39,110,182,180,0,Tidak Berpotensi
+96,58,130,263,140,2,Berpotensi
+97,43,142,207,138,0,Tidak Berpotensi
+98,39,160,147,160,0,Tidak Berpotensi
+99,56,120,85,140,0,Tidak Berpotensi
+100,41,125,269,144,0,Tidak Berpotensi
